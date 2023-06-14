@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babagl&label=Profile%20views&color=0e75b6&style=flat" alt="babagl" /> </p>
 
-- 🌱 I’m currently learning **Spring boot angular kafka mongodb**
+- 🌱 I’m currently learning **javaee Spring boot angular kafka mongodb rabbitMq ActiveMq GraphQl Jenkins **
 
 - 📫 How to reach me **gallebaba71@gmail.com**
 
